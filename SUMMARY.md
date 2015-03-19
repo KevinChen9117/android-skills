@@ -7,5 +7,4 @@
    * [Handler以内部类的形式出现时，要使用静态内部类](HandlerLeak.md)
 * [Android小技巧](android小技巧.md)
    * [TimingLogger的使用](TimingLogger的使用.md)
-* [TimingLogger的使用](TimingLogger的使用.md)
 
