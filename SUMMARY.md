@@ -12,3 +12,5 @@
 * [Android开源lib源码解析](Android开源lib源码解析/README.md)  
 * [Android小技巧](Android小技巧/README.md)
    * [TimingLogger的使用](Android小技巧/TimingLogger的使用.md)
+* [Android开源后台工具](Android开源后台工具/README.md)
+* [Android开发编译工具](Android开发编译工具/README.md)
