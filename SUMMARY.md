@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [AndroidCommon知识](AndroidCommon知识/README.md)
 * [Android架构](Android架构/README.md)
    * [MVP设计模式](Android架构/mvp设计模式.md)
 * [Android编程Check List](Android编程Check List/README.md)
